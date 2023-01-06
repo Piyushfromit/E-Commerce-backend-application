@@ -86,7 +86,5 @@
 
 ## Authors
 
-| Contributors|Responsibility |
-| ------|------ |
-| Sumit Raghav | [@sumitraghavwork](https://github.com/sumitraghavwork) |
+| Piyush Kumar | [@Github_Account](https://github.com/piyushfromit) |
 
